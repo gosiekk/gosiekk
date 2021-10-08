@@ -2,6 +2,11 @@
 
 # Hi, I’m @gosiekk 👋
 
+Motivated 23 years old, who interested about manual software testing.
+Currently I looking for experience. I am open to cooperation with people
+and learning new things.
+
+
 
 
 ## My skills:
