@@ -5,9 +5,11 @@
 
 
 ## My skills:
+![stack](https://user-images.githubusercontent.com/88321280/136542149-5430f0f0-9128-4dcc-a451-ae79148264f3.png)
 
 
 ## 🌱 I’m currently learning
+![python](https://user-images.githubusercontent.com/88321280/136542176-c4825386-6cae-4826-9d90-0768c713f758.png)
 
 
 ## 📫 How to reach me:
