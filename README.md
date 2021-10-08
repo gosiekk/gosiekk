@@ -2,9 +2,7 @@
 
 # Hi, I’m @gosiekk 👋
 
-Motivated 23 years old, who interested about manual software testing.
-Currently I looking for experience. I am open to cooperation with people
-and learning new things.
+My name is Małgorzata Derezińska. I am 23 years old. I have bachelor degree of Social rehabilitation and social prevention. At present I study master of degree in the field of Social work on University Jan Kochanowski in Kielce. I am interested in manual software testing. My goal is deepen my knowledge on field of testing and use my soft competencies working with people. On my profile you can find various projects, which I did independently to develop my skills. I am open to cooperation with people and learning new things.
 
 
 
